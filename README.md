@@ -7,8 +7,8 @@
 **Author: Ibrahim Khdairat**
 
 
-- [back-end]().
-- [pull request]().
+- [Back-End-Heroku-Link](https://ibrahim-auth-api.herokuapp.com/).
+- [Repo Link](https://github.com/Ibrahim-Khdairat/auth-api).
 
 **Setup**
 
